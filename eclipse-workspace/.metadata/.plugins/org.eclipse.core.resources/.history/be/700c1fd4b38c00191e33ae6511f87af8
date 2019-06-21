@@ -1,0 +1,13 @@
+import java.util.*;
+public class Example5 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+		System.out.println("Enter a value to x");
+		int x = input.nextInt();
+		
+		
+	}
+
+}

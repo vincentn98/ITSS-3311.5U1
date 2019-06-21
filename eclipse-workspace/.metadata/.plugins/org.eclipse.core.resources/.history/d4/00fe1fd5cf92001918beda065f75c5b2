@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class Project2 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner (System.in);
+
+		String message = "Welcome to Java";
+		
+		System.out.println("Length is "+length);
+	}
+
+}

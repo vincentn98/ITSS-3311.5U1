@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class Project2 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner (System.in);
+
+		System.out.println("Enter two characters: ");
+		String s = input.nextLine();
+
+		//if (radius >= 0) {
+			//area = radius*radius*PI;
+			//System.out.println("The area of a circle with radius "+radius+ " is "+area);
+		if (s == "i3")
+			
+		
+		System.out.println("Information Technology and Systems");
+		//System.out.println("Junior");
+	}
+
+}

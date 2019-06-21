@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class ExString {
+
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		
+		System.out.println("Enter the statement");
+		String s1 = input.nextLine();
+		
+		String s2=s1.substring(53,65);
+		
+		System.out.println(s2);
+		
+		String s3=s1.substring(69, 83);
+		
+		System.out.println(s3);
+
+	}
+
+}

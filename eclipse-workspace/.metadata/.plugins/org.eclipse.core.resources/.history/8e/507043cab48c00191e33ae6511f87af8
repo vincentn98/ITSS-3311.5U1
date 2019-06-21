@@ -1,0 +1,19 @@
+import java.util.Scanner;
+public class Example5 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+		System.out.println("Enter a number");
+		int x = input.nextInt();
+		int y = input.nextInt();
+		
+		switch (x+3) {
+		case 6 : y = 1;
+		default: y += 1;
+		}
+		System.out.println("The value of y is "+y);
+		
+		input.close();
+	}
+}

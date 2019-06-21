@@ -1,0 +1,21 @@
+
+public class ExString {
+
+	public static void main(String[] args) {
+		String message = "My name is Vincent. I am a senior at UTD. I like to go to the gym and watch movies.";
+		
+		//System.out.println(message.length());
+		//System.out.println(message.charAt(0));
+		//System.out.println(message.toLowerCase());
+		//System.out.println(message.toUpperCase());
+		//System.out.println(message.trim());
+
+		String S1 = "Welcome";
+		String S2 = "to";
+		String S3 = S1+S2;
+		
+		System.out.println(S3);
+		System.out.println("Welcome"+"to");
+	}
+
+}

@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Project2 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner (System.in);
+
+		System.out.println("Enter two characters: ");
+		String s = input.nextLine();
+
+		//int k = s.indexOf(' ');
+		//String firstName=s.substring(0,k);
+		//String lastName=s.substring(k+1);
+		
+		System.out.println("Information Technology and Systems");
+		System.out.println("Junior");
+	}
+
+}

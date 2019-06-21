@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		System.out.print("Enter a string: ");
+		String s = input.nextLine() ;
+		s = s.toLowerCase(); // change all to lower case
+		char ch1 = s.charAt(0);
+		char ch2 = s.charAt(1);
+		System.out.println("The first is " + ch1);
+		System.out.println("The second is " + ch2);
+		System.out.println("The first is b: " + (ch1=='b'));
+		System.out.println("The second is 4: " + (ch2=='4'));
+
+	}
+
+}

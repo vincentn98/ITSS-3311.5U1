@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\vince\OneDrive\Documents\School\Summer 2019\ITSS 3311\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+3435648363.index
+3891760607.index
+1453682678.index
+4194752941.index
+2130631781.index
+846697999.index

@@ -1,0 +1,13 @@
+
+public class ExChar {
+
+	public static void main(String[] args) {
+		char letter = '5';
+
+				//System.out.println(Character.isDigit(letter));
+				//System.out.println(Character.isLetter(letter));
+				System.out.println(Character.isLetterOrDigit(letter));
+
+	}
+
+}
