@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class Test {
+
+	public static void main(String[] args) {
+
+		int x = 0;
+		int y = 0;
+		switch(x) {
+		case 0: y = 0; break;
+		case 1: y = 1;
+		default: y = -1;
+		System.out.println("y is "+y);
+		}
+	}
+
+}
