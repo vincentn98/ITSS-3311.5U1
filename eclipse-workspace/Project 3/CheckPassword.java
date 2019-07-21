@@ -12,6 +12,8 @@ public class CheckPassword {
 		else
 			System.out.println("Invalid password");
 
+		input.close();
+
 	}
 
 	public static boolean AtLeast8(String p) {
